@@ -24,9 +24,9 @@ pip install -r requirements.txt
 ```
 **Run Script to Obtain URL's to scrape**
 ```
-python cuit_online_urls.py
+python ./scrapers/cuit_online_urls.py
 ```
 **Run Script to Obtain Cuits Details**
 ```
-python cuit_online_scrape.py
+python ./scrapers/cuit_online_scrape.py
 ```
